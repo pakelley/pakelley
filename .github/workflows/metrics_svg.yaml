@@ -58,6 +58,7 @@ jobs:
           plugin_lines_sections: base
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_lines: 0
           plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_user: 5054505
