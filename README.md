@@ -1,11 +1,11 @@
 <a href="https://metrics.lecoq.io/about/pakelley">
-  <img src="base.svg" align="left" width="47.5%" />
+  <img src="base.svg" align="center" width="47.5%" />
 </a>
 <a href="https://metrics.lecoq.io/about/pakelley">
-  <img src="achievements.svg" align="left" width="47.5%" />
+  <img src="achievements.svg" align="center" width="47.5%" />
 </a>
 <a href="https://metrics.lecoq.io/about/pakelley">
-  <img src="contributions.svg" align="left" width="47.5%" />
+  <img src="contributions.svg" align="center" width="47.5%" />
 </a>
 
 <br/>
