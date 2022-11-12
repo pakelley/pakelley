@@ -49,27 +49,6 @@ jobs:
 
           filename: contributions.svg
 
-  so:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          user: pakelley
-          template: classic
-          config_timezone: America/Los_Angeles
-          config_twemoji: yes
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-
-          filename: so.svg
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_lines: 0
-          plugin_stackoverflow_lines_snippet: 0
-          plugin_stackoverflow_user: 5054505
-
   achievements:
     runs-on: ubuntu-latest
     steps:
